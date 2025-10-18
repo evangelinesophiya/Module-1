@@ -22,6 +22,5 @@ else:
 ~~~
 
 ## Output
- 7
-ODD
+
 ## Result
