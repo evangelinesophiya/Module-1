@@ -10,11 +10,11 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ~~~
-men_stepped_on_the_moon=12
-print(men_stepped_on_the_moon)
+men_stepped_on_the_moon= input()
+print  (men_stepped_on_the_moon)
 ~~~
 ## Output
-![WhatsApp Image 2025-10-20 at 12 33 15_134107d0](https://github.com/user-attachments/assets/00cc0499-3052-4f02-bb95-fc9bb812aa72)
+<img width="987" height="190" alt="Screenshot 2025-10-20 131239" src="https://github.com/user-attachments/assets/6fa6577f-2bd0-4dda-aa4b-0f052d0a8a8f" />
 
 ## Result
 Thus , the program has been executed succesfully.
